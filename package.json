@@ -1,0 +1,17 @@
+{
+  "name": "folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsc && node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.13"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.4"
+  }
+}
